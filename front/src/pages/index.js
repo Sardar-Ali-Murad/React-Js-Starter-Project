@@ -1,0 +1,11 @@
+import FAQS from "./FAQ"
+import ForgetPassword from "./ForgetPassword"
+import ResetPassword from "./ResetPassword"
+import Login from "./Login"
+import Register from "./Register"
+import Privacy from "./Privacy"
+import Terms from "./Terms"
+import User from "./User"
+import Home from "./Home"
+import ProtectedRouteUser from "./protectedRoutesUser"
+export {FAQS,ForgetPassword,ResetPassword,Login,Register,Privacy,Terms,User,Home,ProtectedRouteUser}
